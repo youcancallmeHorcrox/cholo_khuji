@@ -40,3 +40,25 @@ Make sure you have the following installed:
 sudo apt install jq      # Debian/Ubuntu
 sudo yum install jq      # CentOS/RHEL
 brew install jq          # macOS
+
+...........................
+
+💻 Usage
+
+# Make the script executable
+chmod +x geolocate.sh
+
+# Look up by IP
+./geolocate.sh 8.8.8.8
+
+# Look up by domain
+./geolocate.sh google.com
+
+.......................
+
+🧾 Example Output
+
+The location of the IP address is Mountain View, California, United States
+The coordinates of the IP address are: 37.4056,-122.0775
+Their ISP is: Google LLC
+
