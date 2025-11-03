@@ -66,8 +66,10 @@ Their ISP is: Google LLC
 
 👨‍💻 Author
 ```
-.Shafayat Hossain Shafin
-username: callmehorcrux_
+Shafayat Hossain Shafin
 💡Cybersecurity Enthusiast
+
+Discord: callmehorcrux_
+THM: https://tryhackme.com/p/youcancallmeHorcrox
 📧 shafayat_hossain1088@uits.edu.bd
 ```
