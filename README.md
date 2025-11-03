@@ -41,7 +41,7 @@ sudo apt install jq      # Debian/Ubuntu
 sudo yum install jq      # CentOS/RHEL
 brew install jq          # macOS
 
-
+****
 ...........................
 
 💻 Usage
