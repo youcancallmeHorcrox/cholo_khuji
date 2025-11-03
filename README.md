@@ -41,7 +41,6 @@ sudo apt install jq      # Debian/Ubuntu
 sudo yum install jq      # CentOS/RHEL
 brew install jq          # macOS
 ```
-...........................
 
 💻 Usage
 ```
@@ -54,7 +53,6 @@ chmod +x geolocate.sh
 # Look up by domain
 ./geolocate.sh google.com
 ```
-.......................
 
 🧾 Example Output
 ```
